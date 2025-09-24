@@ -34,4 +34,10 @@ El plano se basa en un archivo Excel con la siguiente distribución de vías:
 5. Haz clic en **Deploy**.
 
 ## 📁 Estructura del repositorio
+plano-taller-streamlit ┣ 📄 app.py ┣ 📄 README.md
+
+## ✍️ Autor
+
+Miguel Soler – Jefe de Producción
+
 
