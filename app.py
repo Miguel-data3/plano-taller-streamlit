@@ -2,6 +2,11 @@ import streamlit as st
 
 # Estructura de datos extraída del Excel
 vias = {
+    "Vía 1": ["PRUEBA 470-102"],
+    "Vía 2": ["PRUEBA 490-006"],
+    "Vía 3": ["ACOPLE 465-237"],
+    "Vía 4": ["AGUAS NEGRAS 470-117"],
+    "Vía 5": ["FOSO 1", "470-117", "PUESTO 3", "PUESTO 4", "DESGUACE:" "C2", "7-446-078 RI", "ARCO 2.209", "C2", "7-446-078 RI", "ARCO 2.209"],
     "Vía 4": ["4"],
     "Vía 5": ["490-005 CMT", "490-005 CMP", "490-005 CR", "490-009 CR", "C2", "7-446-078 RI", "ARCO 2.209", "C2", "7-446-078 RI", "ARCO 2.209"],
     "Vía 6": ["470-102 CM", "470-102 RI", "470-102 RC", "C4", "^^ 9-446-078 CM1", "9-446-078 CM2 ^^", "C4", "^^ 9-446-078 CM1", "9-446-078 CM2 ^^"],
