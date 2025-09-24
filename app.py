@@ -46,7 +46,7 @@ for via, coches in st.session_state.vias.items():
 # Guardar y descargar
 if st.button("Descargar situación actual"):
     import pandas as pd
-      data = []
+    data = []
     for via, coches in st.session_state.vias.items():
         for coche in coches:
             data.append({"Vía": via, "Coche": coche})
